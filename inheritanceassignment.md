@@ -11,5 +11,9 @@ By Christine Hannah Adong, 25/U/30662
 * For the print function in the customer class, I called the print function in the base class and modified it to print the additional details. This wway, the grand child class (VIP), can access it and print more than the parent class and modify it as well.
 * The discount in VIP could have been protected as well but since I had no intention of making about derived class, I made it private to protect the data and ensure only that last class can access it.
 
+## Picture of inheritance from code
+
+![alt text](<inheritance assignment.jpg>)
+
 ## Goal of Assignment
 * I believe the assignment goal was to undertsand the construct of inheritance in class and how derived classes can access information from those before it. I believe the goal was achieved. 
