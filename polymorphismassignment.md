@@ -8,6 +8,11 @@ By Christine Hannah Adong, 25/U/30662
 * I included unique private data members of each child class but overrided the same virtual function from the base class.
 * I then provided an example of a program in the main function and compiled and ran the program.
 
+## Picture of polymorphism from code
+
+![alt text](<polymorphism assignment.jpg>)
+
+
 ## Goal of Assignment
 * I believe the assignment goal was to undertsand the construct of polymorphism and how one base class can contain all functions that can be overriden by several child classes. The assignment goal was achieved.
 
